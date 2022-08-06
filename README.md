@@ -1,4 +1,4 @@
-# Dashbooard spa EpayMoney
+# Dashbooard spa EpayMoney by CHAIBOU Illiassou && TSOWOU Makafui
 
 ## Description du projet
 
@@ -26,3 +26,5 @@ Redirection des utilisateurs en fonction du type (le Marchand et le Client).
 ## Utilisation
 
 Pour l'utilisation de cette application, veuillez vous rendre à l'adresse https://62ee4c1f47397937b0345db1--transcendent-mousse-a23e7e.netlify.app et suivez les instruction du dossier test
+
+## Routes
